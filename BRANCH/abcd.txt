@@ -2,3 +2,5 @@ hello chalo kaise ho
 main acha hun
 hello
 hey
+hola
+var a =12;
